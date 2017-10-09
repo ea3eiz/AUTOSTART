@@ -4,7 +4,7 @@ Type=Application
 Name=Abrir DMR+
 Name[es_ES]=Abrir DMR+
 Comment=
-Exec=Exec=sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;mate-terminal -x;sleep 5;sh actualizar_05.sh"
+Exec=Exec=sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;mate-terminal -x;sleep 5;sh ejecutar_plus_05.sh"
 Icon=
 Terminal=false
 StartupNotify=false
