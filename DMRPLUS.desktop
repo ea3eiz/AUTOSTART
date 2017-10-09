@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Abrir DMR+
+Name[es_ES]=Abrir DMR+
+Comment=
+Exec=mate-terminal -x sh -c "cd /home/orangepi/MMDVMHost/;sleep 5;sudo ./MMDVMHost MMDVMPLUS.ini"
+Icon=
+Terminal=false
+StartupNotify=false
+Path=/home/orangepi/MMDVMHost
+Hidden=false
+
