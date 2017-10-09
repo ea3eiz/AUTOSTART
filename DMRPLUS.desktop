@@ -4,10 +4,10 @@ Type=Application
 Name=Abrir DMR+
 Name[es_ES]=Abrir DMR+
 Comment=
-Exec=mate-terminal -x sh -c "cd /home/orangepi/MMDVMHost/;sleep 5;sudo ./MMDVMHost MMDVMPLUS.ini"
+Exec=Exec=sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;sleep 5;sh actualizar_05.sh"
 Icon=
 Terminal=false
 StartupNotify=false
-Path=/home/orangepi/MMDVMHost
+Path=
 Hidden=false
 
