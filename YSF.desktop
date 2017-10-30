@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Abrir YSF
+Name[es_ES]=Abrir YSF
+Comment=
+Exec=mate-terminal -x sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;sleep 10;sh ejecutar_ysf_05.sh"
+Icon=
+Terminal=false
+StartupNotify=false
+Path=
+Hidden=false
+

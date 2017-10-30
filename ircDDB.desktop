@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Abrir ircDDB
+Name[es_ES]=Abrir ircDDB
+Comment=
+Exec=sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;sh ejecutar_d-star_05.sh"
+Icon=
+Terminal=false
+StartupNotify=false
+Path=
+Hidden=false
