@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Brandmeister
-Comment=AMBE
+Name=Abrir AMBE SERVER
+Comment=AMBE SERVER
 Exec=sh ejecutar_ambe_server.sh
 Icon=/home/orangepi/SCRIPTS_ORANGE/AMBE_SERVER.png
 Terminal=false
