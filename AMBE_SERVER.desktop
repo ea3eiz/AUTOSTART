@@ -1,13 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Abrir bm
-Name[es_ES]=Abrir bm
+Name=Brandmeister
 Comment=
-Exec=mate-terminal -x sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;sleep 10;sh ejecutar_bm_05.sh"
-Icon=
+Exec=mate-terminal -x sh ejecutar_ambe_server.sh
+Icon=/home/orangepi/SCRIPTS_ORANGE/AMBE_SERVER.png
 Terminal=false
 StartupNotify=false
-Path=
-Hidden=false
+Name[es_ES]=Abrir AMBE SERVER
+Path=/home/orangepi/SCRIPTS_ORANGE
+GenericName=Abrir AMBE SERVER
 
