@@ -1,11 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Editar YSF2DMR
+Name=Abrir YSF2DMR
 Comment=
-Icon=/home/orangepi/SCRIPTS_ORANGE/YSF2DMR_EDIT.png
-Path=/home/orangepi/SCRIPTS_ORANGE
+Exec=sudo sh -c "cd ~/SCRIPTS_ORANGE/;sh ejecutar_YSF2DMR.sh"
+Icon=/home/orangepi/SCRIPTS_ORANGE/YSF2DMR.png
 Terminal=false
-Name[es_ES]=Editar YSF2DMR
 StartupNotify=false
-Exec=mate-terminal --geometry=80x47 -x sh editar_YSF2DMR.sh
+Name[es_ES]=Abrir YSF2DMR
+Path=/home/orangepi/SCRIPTS_ORANGE
+GenericName=Abrir_YSF2DMR
