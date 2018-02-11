@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Abrir D-STAR Repeater
+Name[es_ES]=Abrir D-STAR Repeater
+Comment=
+Exec=mate-terminal -x sh -c "cd /home/orangepi/SCRIPTS_ORANGE/;sleep 10;sh ejecutar_solodstar_04.sh"
+Icon=
+Terminal=false
+StartupNotify=false
+Path=
+Hidden=false
+
